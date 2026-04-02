@@ -7,6 +7,3 @@ services:
     envVars:
       - key: BOT_TOKEN
         value: 8750923349:AAHsRNgP_f-o1p5-fXnTjkY0s2w8-6wh41U
-      - key: PYTHON_VERSION
-        value: 3.10.12
-
